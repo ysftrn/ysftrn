@@ -1,16 +1,47 @@
-## Hi there 👋
+# Yusuf Torun
 
-<!--
-**ysftrn/ysftrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software tester and automation engineer building a QA portfolio 
+after several years of independent systems development.
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Physics graduate. Spent the last 5–6 years designing and running 
+automated cryptocurrency trading systems in Python and Go — writing 
+production code, managing Linux servers, and debugging systems 
+where correctness and reliability actually had financial consequences.
+
+Now focusing on software testing and QA engineering, applying that 
+same instinct for correctness to building test infrastructure 
+professionally.
+
+## What's here
+
+**[cryptotracker-qa](https://github.com/ysftrn/cryptotracker-qa)**  
+A full testing portfolio built around a Go/SQLite REST API I wrote 
+as the SUT. Covers manual test documentation (ISO 29119), 112 
+automated tests across Pytest/Selenium/Go, CI/CD with Jenkins and 
+GitHub Actions, and performance testing with Locust and JMeter.
+
+**[binance-public-tests](https://github.com/ysftrn/binance-public-tests)**  
+Pytest-based API test suite for Binance's public REST endpoints. 
+Demonstrates response validation, parametrized tests, response time 
+assertions, and CI integration.
+
+**[selenium-ui-tests](https://github.com/ysftrn/selenium-ui-tests)**  
+Selenium WebDriver UI tests using explicit waits, state verification, 
+and parametrized scenarios.
+
+**[BtcTurk-Postman](https://github.com/ysftrn/BtcTurk-Postman)**  
+Complete Postman collection covering all public and private REST 
+endpoints of the BtcTurk exchange, including pre-request 
+authentication scripting.
+
+## Stack
+
+Python · Go · Pytest · Selenium · Postman · GitHub Actions · 
+Jenkins · SonarQube · Docker · Linux
+
+## Open to work
+
+Currently looking for QA / SDET / test automation roles — remote 
+or Istanbul-based.
