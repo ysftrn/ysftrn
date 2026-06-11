@@ -1,7 +1,6 @@
 # Yusuf Torun
 
-Software tester and automation engineer building a QA portfolio 
-after several years of independent systems development.
+Physicist, Software Developer & QA Automation Engineer | Python · Go · pytest · API Testing
 
 ## Background
 
